@@ -1,8 +1,7 @@
 ---
-title: "Welcome to Jeffrey Schmid"
+title: "Welcome to my Blog"
 description: |
-  Welcome to our new blog, Jeffrey Schmid. We hope you enjoy 
-  reading what we have to say!
+  Welcome to my blog, I'm Jeffrey. I post data science related things here.
 date: 12-30-2021
 output:
   distill::distill_article:

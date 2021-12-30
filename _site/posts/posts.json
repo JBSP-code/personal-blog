@@ -1,14 +1,14 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to Jeffrey Schmid",
-    "description": "Welcome to our new blog, Jeffrey Schmid. We hope you enjoy \nreading what we have to say!",
+    "title": "Welcome to my Blog",
+    "description": "Welcome to my blog, I'm Jeffrey. I post data science related things here.",
     "author": [],
     "date": "2021-12-30",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-30T16:27:36+01:00",
-    "input_file": {}
+    "last_modified": "2021-12-30T17:55:13+01:00",
+    "input_file": "welcome.knit.md"
   }
 ]
