@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About me",
-      "description": "About me",
+      "description": "„Wisdom is not a product of schooling but of the lifelong attempt to acquire it.“ - Albert Einstein (Letter to an atheist, 24 March 1954)",
       "author": [],
-      "contents": "\r\nHello there\r\nI’m Jeffrey Schmid-Paz and I currently work as a data scientist for a retailer in Switzerland. I enjoy analyzing all kinds of data and gaining insights from them. This blog serves as place where I post data science related things I consider worth sharing.\r\nThis blog is built with the distill package in R and deployed using Netlify.\r\nShort Curriculum Vitae\r\nProfessional Experience\r\nData Scientist, Coop Genossenschaft (10/2021-now)\r\nData Analyst, Coop Genossenschaft (01/2020-09/2021)\r\nJunior Data Analyst, Coop Genossenschaft (08/2018-12/2019)\r\nBefore: several positions as store clerks or store assistants for Coop Genossenschaft, InterDiscount, Lidl Schweiz\r\nEducation\r\nMaster of Science in Applied Economic Analysis, University of Berne (2016-2021, part-time)\r\nBachelor of Arts in Political Economics, University of Lucerne (2010-2015, part-time)\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-31T16:17:52+01:00"
+      "contents": "\r\nHello there…\r\nI’m Jeffrey Schmid-Paz and I currently work as a data scientist for a retailer in Switzerland. I enjoy analyzing all kinds of data and gaining insights from them. This blog serves as place where I post data science related things I consider worth sharing.\r\nThis blog is built with the distill package in R and deployed using Netlify.\r\nShort Curriculum Vitae\r\nProfessional Experience\r\nData Scientist, Coop Genossenschaft\r\n(10/2021-now)\r\nData Analyst, Coop Genossenschaft\r\n(01/2020-09/2021)\r\nJunior Data Analyst, Coop Genossenschaft\r\n(08/2018-12/2019)\r\nBefore: several positions as store clerks or store assistants for Coop Genossenschaft, InterDiscount, Lidl Schweiz\r\nEducation\r\nMaster of Science in Applied Economic Analysis, University of Berne\r\n(2016-2021, part-time)\r\nBachelor of Arts in Political Economics, University of Lucerne\r\n(2010-2015, part-time)\r\nFind me on…\r\nGithub\r\nLinkedIn\r\nXing\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-12-31T16:37:03+01:00"
     },
     {
       "path": "index.html",
       "title": "Jeffrey Schmid-Paz",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-31T16:17:52+01:00"
+      "last_modified": "2021-12-31T16:37:04+01:00"
     }
   ],
   "collections": ["posts/posts.json"]
