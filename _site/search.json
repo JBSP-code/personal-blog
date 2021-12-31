@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About me",
-      "description": "Some additional details about the blog",
+      "description": "Some things to know about me",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-30T16:27:49+01:00"
+      "last_modified": "2021-12-31T13:02:38+01:00"
     },
     {
       "path": "index.html",
       "title": "Jeffrey Schmid-Paz",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-30T16:27:50+01:00"
+      "last_modified": "2021-12-31T13:02:39+01:00"
     }
   ],
   "collections": ["posts/posts.json"]
