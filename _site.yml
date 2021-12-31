@@ -4,6 +4,8 @@ description: |
   I'm Jeffrey and I'm posting data science related stuff here.
 output_dir: "_site"
 base_url: https://www.jeffreyschmid.com/
+repository_url: https://github.com/JBSP-code/personal-blog
+creative_commons: CC BY
 collections:
   posts:
     disqus: jeffrey-schmid-paz
