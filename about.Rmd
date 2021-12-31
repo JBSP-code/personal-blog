@@ -1,9 +1,33 @@
 ---
 title: "About me"
 description: |
-  Some things to know about me
+  About me
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+# Hello there
+
+I'm Jeffrey Schmid-Paz and I currently work as a data scientist for a retailer in Switzerland. I enjoy analyzing all kinds of data and gaining insights from them. This blog serves as place where I post data science related things I consider worth sharing.
+
+This blog is built with the distill package in R and deployed using Netlify.
+
+## Short Curriculum Vitae
+
+### Professional Experience
+
+-   Data Scientist, *Coop Genossenschaft* (10/2021-now)
+
+-   Data Analyst, *Coop Genossenschaft* (01/2020-09/2021)
+
+-   Junior Data Analyst, *Coop Genossenschaft* (08/2018-12/2019)
+
+-   Before: several positions as store clerks or store assistants for *Coop Genossenschaft*, *InterDiscount*, *Lidl Schweiz*
+
+### Education
+
+-   Master of Science in Applied Economic Analysis, *University of Berne* (2016-2021, part-time)
+
+-   Bachelor of Arts in Political Economics, *University of Lucerne* (2010-2015, part-time)
