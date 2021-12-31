@@ -15,4 +15,9 @@ navbar:
     - text: "About me"
       href: about.html
   search: false
+cookie_consent:
+  style: simple
+  type: express
+  palette: dark
+  lang: en
 output: distill::distill_article
