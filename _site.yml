@@ -3,6 +3,11 @@ title: "Jeffrey Schmid-Paz"
 description: |
   I'm Jeffrey and I'm posting data science related stuff here.
 output_dir: "_site"
+base_url: https://www.jeffreyschmid.com/
+collections:
+  posts:
+    disqus: jeffrey-schmid-paz
+    share: [twitter, linkedin, pinterest]
 navbar:
   right:
     - text: "Home"
