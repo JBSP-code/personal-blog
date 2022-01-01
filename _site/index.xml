@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Jeffrey Schmid-Paz</title>
+    <link>https://www.jeffreyschmid.com/</link>
+    <atom:link href="https://www.jeffreyschmid.com/index.xml" rel="self" type="application/rss+xml"/>
+    <description>I'm Jeffrey and I'm posting data science related stuff here.
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Different Basemaps in leaflet (R)</title>
+      <dc:creator>Jeffrey Schmid-Paz</dc:creator>
+      <link>https://www.jeffreyschmid.com/posts/2022-01-01-different-basemaps-in-leaflet-r</link>
+      <description>A sample of different basemaps that can be used in leaflet.</description>
+      <guid>https://www.jeffreyschmid.com/posts/2022-01-01-different-basemaps-in-leaflet-r</guid>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://www.jeffreyschmid.com/posts/2022-01-01-different-basemaps-in-leaflet-r/maps/swisstopo_color.png" medium="image" type="image/png" width="992" height="744"/>
+    </item>
+  </channel>
+</rss>

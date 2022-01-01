@@ -3,10 +3,23 @@ title: "Jeffrey Schmid-Paz"
 description: |
   I'm Jeffrey and I'm posting data science related stuff here.
 output_dir: "_site"
+base_url: https://www.jeffreyschmid.com/
+repository_url: https://github.com/JBSP-code/personal-blog
+creative_commons: CC BY-SA
+collections:
+  posts:
+    disqus: jeffrey-schmid-paz
+    share: [twitter, linkedin, pinterest]
 navbar:
   right:
     - text: "Home"
       href: index.html
     - text: "About me"
       href: about.html
+  search: false
+cookie_consent:
+  style: simple
+  type: express
+  palette: dark
+  lang: en
 output: distill::distill_article

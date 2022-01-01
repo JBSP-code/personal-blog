@@ -1,9 +1,41 @@
 ---
 title: "About me"
 description: |
-  Some things to know about me
+  „Wisdom is not a product of schooling but of the lifelong attempt to acquire it.“ - Albert Einstein (Letter to an atheist, 24 March 1954)
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+# Hello there...
+
+I'm Jeffrey Schmid-Paz and I currently work as a data scientist for a retailer in Switzerland. I enjoy analyzing all kinds of data and gaining insights from them. This blog serves as place where I post data science related things I consider worth sharing.
+
+This blog is built with the [distill](https://rstudio.github.io/distill) in R and deployed using Netlify.
+
+## Short Curriculum Vitae
+
+### Professional Experience
+
+-   Data Scientist, *Coop Genossenschaft* \
+    (10/2021-now)
+-   Data Analyst, *Coop Genossenschaft* \
+    (01/2020-09/2021)
+-   Junior Data Analyst, *Coop Genossenschaft* \
+    (08/2018-12/2019)
+-   Before: several positions as store clerks or store assistants for *Coop Genossenschaft*, *InterDiscount*, *Lidl Schweiz*
+
+### Education
+
+-   Master of Science in Applied Economic Analysis, *University of Berne* \
+    (2016-2021, part-time)
+
+-   Bachelor of Arts in Political Economics, *University of Lucerne* \
+    (2010-2015, part-time)
+
+## Find me on...
+
+-   [Github](https://github.com/JBSP-code)
+-   [LinkedIn](https://www.linkedin.com/in/jeffrey-schmid/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BY3dPVCjoTuGi4%2F%2BOpXfqmw%3D%3D)
+-   [Xing](https://www.xing.com/profile/Jeffrey_Schmid)
