@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 I'm Jeffrey Schmid-Paz and I currently work as a data scientist for a retailer in Switzerland. I enjoy analyzing all kinds of data and gaining insights from them. This blog serves as place where I post data science related things I consider worth sharing.
 
-This blog is built with the distill package in R and deployed using Netlify.
+This blog is built with the [distill](https://rstudio.github.io/distill) in R and deployed using Netlify.
 
 ## Short Curriculum Vitae
 
